@@ -1,6 +1,5 @@
-- [Home](/)
-- [图片地址测试](pic.md)
-- Essentials
-  - [Guide1](guide1.md)
-  - [Guide2](guide2.md)
-  - [Guide3](guide3.md)
+- [docsify服务搭建](/)
+- github主页搭建
+  - [github仓库搭建](new_rep.md)
+  - [阿里云域名申请](ali_domain.md)
+  - [自定义github域名](modify_github_domain.md)
